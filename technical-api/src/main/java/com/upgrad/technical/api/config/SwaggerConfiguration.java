@@ -9,7 +9,9 @@ import springfox.documentation.builders.RequestHandlerSelectors;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
-
+//adding changesgit branch
+//adding one more changegitechnical-api/src/main/java/com/upgrad/technical/api/config/SwaggerConf
+//iguration.java
 @Configuration
 @EnableSwagger2
 public class SwaggerConfiguration {
